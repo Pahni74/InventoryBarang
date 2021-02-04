@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Versi Php 
+Versi "php": "^7.1.3", 
+Versi "laravel/framework": "5.8.*",
 
 ## About Laravel
 
